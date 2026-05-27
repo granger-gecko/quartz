@@ -1,3 +1,54 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// At the Trestle Table — custom styles
+
+// Slightly warmer, more editorial feel for the page title in the sidebar
+.page-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-style: italic;
+  letter-spacing: -0.01em;
+}
+
+// Body text: looser line-height for long-form reading
+article {
+  line-height: 1.75;
+}
+
+// Article headings: add a touch more breathing room
+article h1,
+article h2,
+article h3 {
+  letter-spacing: -0.02em;
+  margin-top: 2em;
+}
+
+// Soften the horizontal rule
+hr {
+  border-color: var(--lightgray);
+  opacity: 0.6;
+}
+
+// Make blockquotes feel archival / pull-quote-like
+blockquote {
+  border-left: 3px solid var(--tertiary);
+  font-style: italic;
+  color: var(--darkgray);
+  padding-left: 1.25rem;
+}
+
+// Tags: pill style, muted
+.tag-link {
+  border-radius: 3px;
+  font-size: 0.78em;
+  letter-spacing: 0.04em;
+  text-transform: lowercase;
+}
+
+// Explorer heading: small-caps label
+#explorer-content .explorer-title {
+  font-family: "Lora", Georgia, serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
