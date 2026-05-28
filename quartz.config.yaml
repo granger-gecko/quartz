@@ -13,11 +13,11 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: systemFonts
+    fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Georgia
-      body: Georgia
+      header: Lora
+      body: Lora
       code: IBM Plex Mono
     colors:
       lightMode:

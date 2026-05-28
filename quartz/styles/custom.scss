@@ -2,15 +2,14 @@
 
 // At the Trestle Table — custom styles
 
-// Override font stacks to match the landing page
-body {
-  font-family: Georgia, 'Times New Roman', serif;
-}
-
-.page-title,
+// Override to Georgia for screen display (og-image plugin uses the Google Font Lora from config)
+body,
 h1, h2, h3, h4, h5, h6,
 article h1, article h2, article h3, article h4 {
   font-family: Georgia, 'Times New Roman', serif;
+}
+
+h1, h2, h3, h4 {
   font-weight: normal;
   letter-spacing: -0.02em;
 }
