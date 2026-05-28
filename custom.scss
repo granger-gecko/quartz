@@ -1,0 +1,50 @@
+@use "./variables.scss" as *;
+
+// At the Trestle Table — custom styles
+
+// Override font stacks to match the landing page
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.page-title,
+h1, h2, h3, h4, h5, h6,
+article h1, article h2, article h3, article h4 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+}
+
+// UI elements (nav, explorer, search, tags) use the same sans as the landing page
+nav, .sidebar, #explorer-content, .search-button,
+.tag-link, .content-meta, .backlinks-container,
+.breadcrumb-container, footer {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+// Body text: generous line-height for long-form reading
+article {
+  line-height: 1.75;
+}
+
+// Soften the horizontal rule
+hr {
+  border-color: var(--lightgray);
+  opacity: 0.6;
+}
+
+// Blockquotes: editorial pull-quote feel
+blockquote {
+  border-left: 3px solid var(--tertiary);
+  font-style: italic;
+  color: var(--darkgray);
+  padding-left: 1.25rem;
+}
+
+// Tags: small, clean
+.tag-link {
+  border-radius: 3px;
+  font-size: 0.78em;
+  letter-spacing: 0.04em;
+  text-transform: lowercase;
+}
