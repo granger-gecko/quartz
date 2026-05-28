@@ -142,10 +142,7 @@ plugins:
       position: right
       priority: 50
   - source: github:quartz-community/article-title
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 10
+    enabled: false
   - source: github:quartz-community/content-meta
     enabled: false
   - source: github:quartz-community/tag-list
@@ -155,6 +152,8 @@ plugins:
       priority: 30
   - source: github:quartz-community/page-title
     enabled: true
+    options:
+      link: "https://atrestletable.com"
     layout:
       position: left
       priority: 10

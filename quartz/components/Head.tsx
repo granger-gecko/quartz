@@ -106,6 +106,7 @@ export default (() => {
             return resource
           }
         })}
+      <script src="/static/header-link.js" defer />
       </head>
     )
   }
