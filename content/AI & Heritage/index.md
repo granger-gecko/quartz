@@ -1,6 +1,5 @@
 ---
-title: AI and Heritage
-tags: [public]
+title: AI & Heritage
 ---
 
 # AI & Heritage

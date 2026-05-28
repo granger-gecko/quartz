@@ -1,6 +1,5 @@
 ---
 title: At the Trestle Table
-tags: [public]
 ---
 
 # At the Trestle Table
@@ -13,6 +12,6 @@ This is a working notebook — ideas in progress, findings from the archive, and
 
 Browse by theme:
 
-- [[AI and Heritage/index|AI and Heritage]] — what happens when machine intelligence meets the historical record
-- [[Consulting and Governance/index|Consulting and Governance]] — notes from the board room and the advisory table  
-- [[Technology and Ideas/index|Technology and Ideas]] — spatial AI, world models, and the shape of what's coming
+- [[AI & Heritage/index|AI & Heritage]] — what happens when machine intelligence meets the historical record
+- [[Consulting & Governance/index|Consulting & Governance]] — notes from the board room and the advisory table
+- [[Technology & Ideas/index|Technology & Ideas]] — spatial AI, world models, and the shape of what's coming
