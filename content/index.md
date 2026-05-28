@@ -16,8 +16,3 @@ Browse by theme:
 - [[AI & Heritage/index|AI & Heritage]] — what happens when machine intelligence meets the historical record
 - [[Consulting & Governance/index|Consulting & Governance]] — notes from the board room and the advisory table  
 - [[Technology & Ideas/index|Technology & Ideas]] — spatial AI, world models, and the shape of what's coming
-
----
-
-*Christopher Young · Montréal*  
-[chris@atrestletable.com](mailto:chris@atrestletable.com) · [LinkedIn](https://www.linkedin.com/in/cgyoung/)

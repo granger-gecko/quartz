@@ -2,24 +2,29 @@
 
 // At the Trestle Table — custom styles
 
-// Slightly warmer, more editorial feel for the page title in the sidebar
-.page-title {
-  font-family: "Playfair Display", Georgia, serif;
-  font-style: italic;
-  letter-spacing: -0.01em;
+// Override font stacks to match the landing page
+body {
+  font-family: Georgia, 'Times New Roman', serif;
 }
 
-// Body text: looser line-height for long-form reading
+.page-title,
+h1, h2, h3, h4, h5, h6,
+article h1, article h2, article h3, article h4 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+}
+
+// UI elements (nav, explorer, search, tags) use the same sans as the landing page
+nav, .sidebar, #explorer-content, .search-button,
+.tag-link, .content-meta, .backlinks-container,
+.breadcrumb-container, footer {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+// Body text: generous line-height for long-form reading
 article {
   line-height: 1.75;
-}
-
-// Article headings: add a touch more breathing room
-article h1,
-article h2,
-article h3 {
-  letter-spacing: -0.02em;
-  margin-top: 2em;
 }
 
 // Soften the horizontal rule
@@ -28,7 +33,7 @@ hr {
   opacity: 0.6;
 }
 
-// Make blockquotes feel archival / pull-quote-like
+// Blockquotes: editorial pull-quote feel
 blockquote {
   border-left: 3px solid var(--tertiary);
   font-style: italic;
@@ -36,19 +41,10 @@ blockquote {
   padding-left: 1.25rem;
 }
 
-// Tags: pill style, muted
+// Tags: small, clean
 .tag-link {
   border-radius: 3px;
   font-size: 0.78em;
   letter-spacing: 0.04em;
   text-transform: lowercase;
-}
-
-// Explorer heading: small-caps label
-#explorer-content .explorer-title {
-  font-family: "Lora", Georgia, serif;
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  opacity: 0.6;
 }
