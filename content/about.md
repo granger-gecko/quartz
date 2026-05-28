@@ -12,3 +12,9 @@ This garden is where those two threads converge. It is not a polished publicatio
 
 **Contact:** [chris@atrestletable.com](mailto:chris@atrestletable.com)  
 **LinkedIn:** [linkedin.com/in/cgyoung](https://www.linkedin.com/in/cgyoung/)
+
+---
+
+## A note on AI
+
+All opinions and original thought on this site are my own. I use AI for outlining and editorial assistance. Articles researched and produced with my AI research assistant, Clive Murray, are declared as such.
