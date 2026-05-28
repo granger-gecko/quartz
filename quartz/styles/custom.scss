@@ -2,6 +2,43 @@
 
 // At the Trestle Table — custom styles
 
+// Full-width hero masthead
+#quartz-body {
+  position: relative;
+  padding-top: 180px;
+}
+
+#quartz-body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 180px;
+  background-image: url('https://atrestletable.com/hero.jpg');
+  background-size: cover;
+  background-position: center 40%;
+  z-index: 0;
+}
+
+#quartz-body::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 180px;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  pointer-events: none;
+}
+
+// Ensure sidebar and content sit above the banner overlay
+#quartz-body > * {
+  position: relative;
+  z-index: 2;
+}
+
 // Override to Georgia for screen display (og-image plugin uses the Google Font Lora from config)
 body,
 h1, h2, h3, h4, h5, h6,
