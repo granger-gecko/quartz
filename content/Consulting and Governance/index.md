@@ -1,5 +1,5 @@
 ---
-title: Consulting & Governance
+title: Consulting and Governance
 tags: [public]
 ---
 

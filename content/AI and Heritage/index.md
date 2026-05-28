@@ -1,5 +1,5 @@
 ---
-title: AI & Heritage
+title: AI and Heritage
 tags: [public]
 ---
 
