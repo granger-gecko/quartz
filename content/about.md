@@ -9,6 +9,8 @@ My professional work spans product transformation, AI strategy, and board govern
 
 This garden is where those two threads converge. It is not a polished publication. It is a working notebook, updated as I learn.
 
+Testing the update path. 
+
 ---
 ## A note on my use of AI
 
