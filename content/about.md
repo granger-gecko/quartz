@@ -2,12 +2,13 @@
 title: About
 ---
 # About
+My family history research is how I help other people find and tell their own origin stories — the ones that never make it into the history books.
 
-I'm Christopher Young — a researcher exploring my ancestral story and the application of AI to help improve the productivity of research and publishing in the world of History & Heritage.
+My own research covers four centuries of family history across Acadian, Loyalist, Québécois, Scottish, and French lines. It's also where I use AI as a co-intelligence and co-creator, working through archival records that would otherwise take a lifetime to read by hand.
 
-My research work spans four centuries of family history across Acadian, Loyalist, Québécois, and Scottish lines — and increasingly, what AI can do with the kind of archival evidence that has always been too voluminous to read in a single lifetime.
+What I learn here shapes how I think about AI in the GLAM world — galleries, libraries, archives, and museums — and the B2B and B2B2G products being built around it.
 
-This garden is where those two threads converge. It is not a polished publication. It is a working notebook, updated as I learn.
+This site is where that research turns into writing — a working notebook, updated as I learn.
 
 ---
 ## A note on my use of AI
