@@ -1,11 +1,13 @@
 ---
 title: At the Trestle Table
 ---
-
 # At the Trestle Table
 
-Making sense of AI for history, heritage, and the people who lived it.
+Making sense of AI for history, heritage, and the people who want to read the stories.
 
-This is a working notebook — ideas in progress, findings from the archive, and reflections on what it means to apply emerging technology to the long human record. Not a blog. Not a content calendar. A place to think out loud.
+This is a working notebook — ideas in progress, findings from the archives, and reflections on what it means to work with AI as a co-intelligence and co-creator. 
 
-[[New Posting Test]]
+Not a blog. Not a content calendar. A place to think out loud.
+
+---
+
