@@ -10,6 +10,10 @@ What I learn here shapes how I think about AI in the GLAM world (galleries, libr
 
 This site is where that research turns into writing — a working notebook, updated as I learn.
 
+Chris Young
+[Find me on WikiTree](https://www.wikitree.com/wiki/Young-50816)
+[Find me on LinkedIn](https://www.linkedin.com/in/cgyoung/?isSelfProfile=true)
+
 ---
 ## A note on my use of AI
 
