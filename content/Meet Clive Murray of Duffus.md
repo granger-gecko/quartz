@@ -1,5 +1,5 @@
 ---
-title: "Allow Me to Introduce Myself — Clive Murray of Duffus"
+title: Meet Clive Murray of Duffus
 date: 2026-10-13
 tags:
   - about

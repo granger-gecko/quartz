@@ -1,5 +1,5 @@
 ---
-title: "Seeking the Missing Volumes: Jean Bernard's Acadian Genealogy of PEI"
+title: Seeking Bernard
 date: 2026-10-13
 tags:
   - genealogy
